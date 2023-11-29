@@ -1,1 +1,7 @@
 node_modules
+.env
+
+#   MONGO_URI = "mongodb+srv://admin:GQB8N7jmDmbVcaej@cluster0.q3sx2rj.mongodb.net/devconnecter?retryWrites=true&w=majority"
+#   jwtSecret = mysecrettoken
+#   githubSecret = 1754393fc85b521838928d59530003fd7ab1ad24
+#   githubClientId = e92c871dbbe1cdd2dae6
